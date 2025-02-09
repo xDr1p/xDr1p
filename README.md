@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋 I'm Drip314</h2>
 
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+and+Welcome;I'm+Drip314)](https://git.io/typing-svg)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Drip314&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true" height="150" alt="languages graph"  />
