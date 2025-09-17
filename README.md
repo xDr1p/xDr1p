@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I'm Drip314</h2>
+<h2 align="left">Hi 👋 I'm xDrip314</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1000&width=435&lines=Hello+and+Welcome;I'm+xDrip314)](https://git.io/typing-svg)
 
