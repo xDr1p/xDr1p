@@ -1,6 +1,6 @@
-<h2 align="left">xDr1p</h2>
+<h2 align="left">Drip</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1000&width=435&lines=Hello+and+Welcome;I'm+xDr1p)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1000&width=435&lines=Hello+and+Welcome;I'm+Drip)](https://git.io/typing-svg)
 
 <div align="left">
 </div>
